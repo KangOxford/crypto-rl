@@ -1,0 +1,1 @@
+python3 experiment.py --window_size=50 --fitting_file="/content/drive/MyDrive/GitHub/crypto-rl/data_recorder/database/data_exports/demo_LTC-USD_20190926.csv.xz"

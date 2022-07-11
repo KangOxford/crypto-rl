@@ -1,6 +1,7 @@
 from keras.models import Sequential
 from keras.layers import Dense, Flatten, Conv2D
-from keras.optimizers import Adam
+# from keras.optimizers import Adam
+from tensorflow.keras.optimizers import Adam
 from rl.agents.dqn import DQNAgent
 from rl.memory import SequentialMemory
 from rl.callbacks import FileLogger, ModelIntervalCheckpoint

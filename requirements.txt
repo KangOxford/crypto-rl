@@ -14,5 +14,6 @@ python-dateutil
 pytz
 scipy
 tzlocal
+tensorflow
 keras
 keras-rl2
